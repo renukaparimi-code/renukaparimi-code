@@ -38,10 +38,29 @@ Final Year B.Tech (CSE - AI & ML)
 
 # 💻 Tech Stack
 
-<p align="center">
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nextjs,nodejs,express,tailwind,firebase,mysql,git,github,vscode"/>
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
 
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
