@@ -61,9 +61,7 @@ Final Year B.Tech (CSE - AI & ML)
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/demo/"/>
-
+  <img src="https://streak-stats.demolab.com?user=renukaparimi-code&theme=tokyonight" />
 </p>
 
 ---
