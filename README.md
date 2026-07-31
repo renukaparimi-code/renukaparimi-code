@@ -50,9 +50,9 @@ Final Year B.Tech (CSE - AI & ML)
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renukaparimi-code&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renukaparimi-code&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renukaparimi-code&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renukaparimi-code&layout=compact&theme=tokyonight"/>
 
 </p>
 
