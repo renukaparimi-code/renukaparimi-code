@@ -62,7 +62,7 @@ Final Year B.Tech (CSE - AI & ML)
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=renukaparimi-code&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/demo/"/>
 
 </p>
 
