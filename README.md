@@ -101,7 +101,9 @@ Final Year B.Tech (CSE - AI & ML)
 <img src="https://komarev.com/ghpvc/?username=renukaparimi-code&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=renukaparimi-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 ---
 
 # 🚀 Current Focus
