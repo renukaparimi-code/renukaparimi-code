@@ -89,11 +89,7 @@ Final Year B.Tech (CSE - AI & ML)
 <p align="center">
   <img src="https://raw.githubusercontent.com/renukaparimi-code/renukaparimi-code/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=renukaparimi-code&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
 # 👀 Profile Views
 
 <p align="center">
